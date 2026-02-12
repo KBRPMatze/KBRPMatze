@@ -73,9 +73,11 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KBRPMatze\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KBRPMatze\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBRPMatze\&layout=compact\&theme=dark)
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KBRPMatze\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
