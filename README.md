@@ -1,70 +1,91 @@
-# 👋 Hi, ich bin Matze
+# 👋 Hi, ich bin KBRPMatze
 
-💻 Developer • FiveM • Discord Bots • Game Systems
-🚀 Fokus auf Performance, saubere Architektur & durchdachte Features
-🧩 Baue Scripts, Tools & Automationen für RP-Server & Communities
+💻 Developer • FiveM Systems • Discord Bots
+🚀 Fokus auf Performance, Struktur & saubere Umsetzung
+🧩 Builder hinter Scripts & Systemen für **Küstenberg Roleplay**
+
+---
+
+## 🧠 About Me
+
+Ich entwickle performante Server-Systeme, Game-Scripts und Automationen für RP-Communities.
+Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und datenbankgestützten Features.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages & Runtime**
+**Languages**
 
 * JavaScript / Node.js
 * Lua (FiveM)
 * SQL
 * HTML / CSS
 
-**Frameworks & Systems**
+**FiveM Ecosystem**
 
-* FiveM (ESX / ox_inventory / ox_target)
-* Discord.js
-* REST APIs
-* Game Server Tooling
+* ESX
+* ox_inventory
+* ox_target
+* Server Systems & Job Scripts
+* Logging & Export APIs
 
-**Workflow**
+**Discord**
 
-* Performance-Optimierung
-* Strukturierter Code
-* Modulare Systeme
-* Logging & Monitoring
+* Ticket Systeme
+* Rollen Automation
+* Moderations & Utility Bots
+* Server Management Tools
 
 ---
 
-## 🔧 Aktuelle Projekte
+## 🚀 Hauptprojekt
 
-* 🛠 Advanced FiveM Scripts (Jobs, Tuning, Logging, Systems)
-* 🤖 Discord Bots mit Ticket / Role / Automation
-* 📦 Inventory & Item Systems
-* 🎮 RP Server Features & Tools
+### 🌊 Küstenberg Roleplay – FiveM Server
+
+* Custom Server Systeme
+* Job & Mechanic Scripts
+* Inventory & Item Features
+* Logging & Monitoring
+* Performance-optimierte Ressourcen
+
+---
+
+## 🤖 Discord Bot Features
+
+* 🎫 Ticket Systeme (Advanced)
+* 🧾 Logging Kategorien
+* 🛡 Moderation Tools
+* ⚙️ Auto Role & Workflow Automation
+* 🔗 Game ↔ Discord Verknüpfungen
+
+---
+
+## 📦 Aktuelle Schwerpunkte
+
+* Modular aufgebaute FiveM Scripts
+* Export-fähige Server Libraries
+* Datenbank-saubere Speicherung
+* UI/UX verbesserte Systeme
+* Hochperformante Server Features
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME\&show_icons=true\&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=KBRPMatze\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME\&layout=compact\&theme=dark)
-
----
-
-## 🚀 Was ich baue
-
-* ✅ Server Systeme mit Datenbankanbindung
-* ✅ Performante Game Scripts
-* ✅ Modular aufgebaute Tools
-* ✅ Export-fähige APIs für andere Ressourcen
-* ✅ UI + UX optimierte Features
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBRPMatze\&layout=compact\&theme=dark)
 
 ---
 
 ## 📫 Kontakt
 
-* Discord: **DEINNAME#0000**
-* GitHub: https://github.com/DEINUSERNAME
+* GitHub: https://github.com/KBRPMatze
+* Discord: **matze_kbrp_2025**
 
 ---
 
-## 🧠 Motto
+## 🧩 Dev Motto
 
-> „Code ist erst fertig, wenn er schnell, sauber und wartbar ist.“
+> Build it clean. Build it modular. Build it fast.
