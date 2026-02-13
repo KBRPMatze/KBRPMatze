@@ -53,7 +53,6 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 
 ## 🤖 Discord Bot Features
 
-* 🎫 Ticket Systeme (Advanced)
 * 🧾 Logging Kategorien
 * 🛡 Moderation Tools
 * ⚙️ Auto Role & Workflow Automation
@@ -90,4 +89,4 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 
 ## 🧩 Dev Motto
 
-> Build it clean. Build it modular. Build it fast.
+> Build it clean. Build it modular. Build it good.
